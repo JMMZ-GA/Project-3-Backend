@@ -12,13 +12,26 @@ https://jmmz-ga-p3places-ui.herokuapp.com/
 
 SCREENSHOTS:
 
-![alt text](assets/pinit_homemapPage.png)
+Welcome Page / Home Route:
 ![alt text](assets/pinit_landingPage.png)
+
+Login Page:
 ![alt text](assets/pinit_loginPage.png)
-![alt text](assets/pinit_newPinFormPage.png)
-![alt text](assets/pinit_profilePage.png)
-![alt text](assets/pinit_sidebar.png)
+
+Signup Page:
 ![alt text](assets/pinit_signupPage.png)
+
+Index page that displays all the pins from all the users. Includes Search bar that allows user to search for keywords for pins.
+![alt text](assets/pinit_homemapPage.png)
+
+This page only displays pins created by the signed in user (Profile Page)
+![alt text](assets/pinit_profilePage.png)
+
+Form page to create new pins. Includes search bar that autocompletes places with an address (Google Maps Places API) and Drag and drop feature to upload images.
+![alt text](assets/pinit_newPinFormPage.png)
+
+Sidebar that shows a list view of the pins on the map.
+![alt text](assets/pinit_sidebar.png)
 
 
 ### Features Implemented:
